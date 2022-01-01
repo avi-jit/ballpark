@@ -89,7 +89,8 @@ $.get(localhost+'all_facts.txt', function(response, status){
   if (status == 'success'){
     all_facts = response.split("\n")
     console.log(localhost)
-    console.log(all_facts)
+    console.log(localhost)
+    console.log(facts_dir)
   } else {console.log("all_facts could not be loaded")}
   shuffleArray(all_facts)
 })
