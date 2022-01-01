@@ -1,0 +1,6 @@
+{
+    "subject": "Doctors per 10000 people",
+    "unit": "",
+    "value": 7,
+    "limits": [1,1000]
+}
