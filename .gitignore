@@ -6,3 +6,4 @@ server
 drivelinks.txt
 links2.txt
 *.png
+.DS_Store
