@@ -174,6 +174,7 @@ setWrongness = function() {
 button.onclick = function(){
   if (this.classList.contains("inactive")) {
     current += 1
+    if (current == all_facts.length) { current = 0 }
     console.log(current)
     load(current)
     if (read_history) {
