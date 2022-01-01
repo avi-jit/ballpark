@@ -88,6 +88,7 @@ all_facts = []
 $.get(localhost+'all_facts.txt', function(response, status){
   if (status == 'success'){
     all_facts = response.split("\n")
+    console.log(localhost)
     console.log(all_facts)
   } else {console.log("all_facts could not be loaded")}
   shuffleArray(all_facts)
@@ -111,7 +112,7 @@ read_history = false
 
 function load(index) {
   fact = all_facts[index]
-  console.log(fact)
+  console.log(facts_dir+fact)
   $.getJSON(facts_dir+fact, function(data) {
     console.log(data)
 
