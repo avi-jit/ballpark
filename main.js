@@ -137,7 +137,7 @@ function load(index) {
     else {limits = defaults['notation']}
 
     // change UI
-    document.getElementById("prompt").innerHTML = relation + ' of ' + data['subject']
+    document.getElementById("prompt").innerHTML = data['subject']
     //console.log(unit)
     if (unit == 'USD') {addUnitFn = addUnitBefore}
     else {addUnitFn = addUnitAfter}
