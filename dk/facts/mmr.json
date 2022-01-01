@@ -1,0 +1,6 @@
+{
+    "subject": "MMR (Sample Registration Survey) now",
+    "unit": "per 1 lac",
+    "value": 122,
+    "limits": [1, 100000]
+}

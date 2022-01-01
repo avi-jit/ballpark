@@ -1,0 +1,6 @@
+{
+    "subject": "Life Expectancy (1951)",
+    "unit": "yrs",
+    "value": 32,
+    "limits": [1,100]
+}
