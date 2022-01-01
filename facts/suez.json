@@ -1,0 +1,7 @@
+{
+    "subject": "Suez Canal opening",
+    "relation": "Occurred",
+    "unit": "AD",
+    "value": 1869,
+    "limits": [1600,2050]
+}

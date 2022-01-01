@@ -1,0 +1,6 @@
+{
+    "subject": "% of SC population",
+    "unit": "%",
+    "value": 16,
+    "limits": [1, 100]
+}

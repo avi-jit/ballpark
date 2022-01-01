@@ -1,0 +1,7 @@
+{
+    "subject": "Gautam Buddha",
+    "relation": "Birth",
+    "unit": "BC",
+    "value": 563,
+    "limits": [1,5000]
+}

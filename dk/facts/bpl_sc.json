@@ -1,0 +1,6 @@
+{
+    "subject": "% of BPL population that is SC",
+    "unit": "%",
+    "value": 39,
+    "limits": [1, 100]
+}

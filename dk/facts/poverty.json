@@ -1,0 +1,6 @@
+{
+    "subject": "Poverty rate at Independence",
+    "unit": "%",
+    "value": 55,
+    "limits": [1, 100]
+}

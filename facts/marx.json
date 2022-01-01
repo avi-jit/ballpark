@@ -1,0 +1,7 @@
+{
+    "subject": "Communist Manifesto published",
+    "relation": "Occurred",
+    "unit": "AD",
+    "value": 1848,
+    "limits": [1600,2050]
+}

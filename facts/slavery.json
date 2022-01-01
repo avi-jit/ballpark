@@ -1,0 +1,7 @@
+{
+    "subject": "Slavery abolished in USA",
+    "relation": "Occurred",
+    "unit": "AD",
+    "value": 1865,
+    "limits": [1700,2050]
+}

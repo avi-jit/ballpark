@@ -1,0 +1,7 @@
+{
+    "subject": "Chernobyl",
+    "relation": "Occurred",
+    "unit": "AD",
+    "value": 1986,
+    "limits": [1800, 2100]
+}

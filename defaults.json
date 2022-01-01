@@ -1,0 +1,58 @@
+{
+    "relation-dimension-unit": {
+        "market cap": ["currency","USD"],
+        "population": ["count", "people"],
+        "gdp": ["currency", "USD"],
+        "calories": ["energy","calories"],
+        "length": ["length","m"],
+        "weight": ["mass","kg"],
+        "occurred at": ["year","AD"],
+        "emissions": ["",""],
+        "area": ["area", "sq km"],
+        "net worth": ["currency", "USD"],
+        "revenue": ["currency", "USD"],
+        "profits": ["currency", "USD"],
+        "birth": ["year","AD"]
+    },
+    "dimension-units": {
+        "currency": "USD",
+        "energy": "joules",
+        "length": "m",
+        "mass": "kg",
+        "year": "AD"
+    },
+    "relation-units": {
+        "GDP": "USD",
+        "Market Cap": "USD",
+        "Revenue": "USD",
+        "Birth": "AD",
+        "Occurred": "AD",
+        "Area": "sq km",
+        "Age": "count",
+        "Population": "count"
+    },
+    "relation-notations": {
+        "Age": "year"
+    },
+    "relation-limits":{
+        "Age": [0,150]
+    },
+    "unit-notations": {
+        "count": "american",
+        "USD": "american",
+        "AD": "year",
+        "BC": "american",
+        "bytes": "metric",
+        "watts": "metric",
+        "%": "year",
+        "per 1000": "year"
+    },
+    "unit-limits": {
+        "BC": [1,1e21],
+        "AD": [1,2100],
+        "Bytes": [1,1e27],
+        "USD": [1e3,1e15],
+        "%": [1,100],
+        "per 1000": [1,1000]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "subject": "Poverty rate now",
+    "unit": "%",
+    "value": 22,
+    "limits": [1, 100]
+}

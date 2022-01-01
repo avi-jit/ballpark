@@ -1,0 +1,7 @@
+{
+    "subject": "Norman Invasion of England",
+    "relation": "Occurred",
+    "unit": "AD",
+    "value": 1066,
+    "limits": [1, 1600]
+}

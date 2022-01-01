@@ -1,0 +1,6 @@
+{
+    "subject": "% of world's (oxfam) multidimensionally poor that are in India",
+    "unit": "%",
+    "value": 30,
+    "limits": [1, 100]
+}

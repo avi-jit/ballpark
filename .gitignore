@@ -1,0 +1,8 @@
+*/*.pdf
+dist/*
+node_modules
+others
+server
+drivelinks.txt
+links2.txt
+*.png

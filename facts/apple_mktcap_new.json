@@ -1,0 +1,7 @@
+{
+    "subject": "Apple",
+    "qualifier": {"year": 2021},
+    "relation": "Market Cap",
+    "value": 2240000000000,
+    "limits": [1e9, 1e14]
+}

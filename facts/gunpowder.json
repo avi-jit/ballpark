@@ -1,0 +1,7 @@
+{
+    "subject": "Gunpowder discovery",
+    "relation": "Occurred",
+    "unit": "AD",
+    "value": 1280,
+    "limits": [1, 1900]
+}

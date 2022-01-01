@@ -1,0 +1,7 @@
+{
+    "subject": "American Independence",
+    "relation": "Occurred",
+    "unit": "AD",
+    "value": 1776,
+    "limits": [1500, 1900]
+}

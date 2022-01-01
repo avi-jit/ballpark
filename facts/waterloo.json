@@ -1,0 +1,7 @@
+{
+    "subject": "Napolean defeat at Waterloo",
+    "relation": "Occurred",
+    "unit": "AD",
+    "value": 1815,
+    "limits": [1, 1900]
+}

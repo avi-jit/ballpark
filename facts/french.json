@@ -1,0 +1,7 @@
+{
+    "subject": "French Revolution",
+    "relation": "Occurred",
+    "unit": "AD",
+    "value": 1789,
+    "limits": [1, 1900]
+}

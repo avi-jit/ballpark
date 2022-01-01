@@ -1,0 +1,7 @@
+{
+    "subject": "Shershah defeats Humayun",
+    "relation": "Occurred",
+    "unit": "AD",
+    "value": 1540,
+    "limits": [1, 1800]
+}

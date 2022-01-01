@@ -1,0 +1,7 @@
+{
+    "subject": "Prophet Mohammed",
+    "relation": "Birth",
+    "unit": "AD",
+    "value": 570,
+    "limits": [1, 1500]
+}

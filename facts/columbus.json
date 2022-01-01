@@ -1,0 +1,7 @@
+{
+    "subject": "Columbus in America",
+    "relation": "Occurred",
+    "unit": "AD",
+    "value": 1492,
+    "limits": [1, 1700]
+}
