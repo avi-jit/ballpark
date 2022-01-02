@@ -2,4 +2,5 @@
 
 Visit [https://avi-jit.github.io/ballpark/] to start practice!
 
-[] To-Do: Github actions automate facts.
+- [] Github actions automate facts.
+- [] Host on server.
