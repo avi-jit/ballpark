@@ -154,6 +154,10 @@ function load(index) {
     output.innerHTML = getValue(myslider.val);
     document.getElementById("low").innerHTML = getValue(min);
     document.getElementById("high").innerHTML = getValue(max);
+    
+    $("#value-div *").removeAttr('hidden') //.show(); // .prop('disabled',false);
+    $("#slider-div *").removeAttr('hidden') //.show(); // .prop('disabled',false);
+    $("#ques-div *").removeAttr('hidden') //.show(); // .prop('disabled',false);
   });
 }
 

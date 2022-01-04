@@ -41,25 +41,25 @@
       ></orbit-prompt>
     </orbit-reviewarea> -->
 
-    <div class="d-flex flex-column justify-content-center flex-nowrap w-100 px-5 py-2">
-      <div class="d-flex justify-content-center">
+    <div id="root-div" class="d-flex flex-column justify-content-center flex-nowrap w-100 px-5 py-2">
+      <div hidden id="ques-div" class="d-flex justify-content-center">
         <!-- <button type="button" id="next">Next</button> -->
-        <label class="p-5" for="customRange3" class="form-label" id="prompt">Prompt Here</label>
+        <label hidden class="p-5" for="customRange3" class="form-label" id="prompt">Prompt Here</label>
         <br/>
       </div>
-      <div class="d-flex flex-row justify-content-center">
-        <span style="white-space: nowrap">
-          <label class="p-5" id="low"></label>
-          <input type="range" class="form-range" min="0" max="14" step=".1" id="slider"/>
-          <label class="p-5" id="high"></label>
+      <div hidden id="slider-div" class="d-flex flex-row justify-content-center">
+        <span hidden style="white-space: nowrap">
+          <label hidden class="p-5" id="low"></label>
+          <input hidden type="range" class="form-range" min="0" max="14" step=".1" id="slider"/>
+          <label hidden class="p-5" id="high"></label>
         </span>
       </div>
       <br/>
-      <div class="d-flex justify-content-center">
-        <label class="p-5" id="value"></label>
+      <div hidden id="value-div" class="d-flex justify-content-center">
+        <label hidden class="p-5" id="value"></label>
       </div>
       <br/>
-      <div class="d-flex justify-content-center">
+      <div hidden id="button-div" class="d-flex justify-content-center">
         <button type="button" id="submit" class="inactive">Next</button>
         <!--input id="value" /-->
         <!--input id="slider" type="range" min="0" max="20" /-->
